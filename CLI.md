@@ -10,3 +10,6 @@ npm i styled-components
 
 >> types for styled-components
 npm i @types/styled-components -D
+
+>> to build routes
+npm i react-router-dom
