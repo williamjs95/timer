@@ -4,7 +4,6 @@ npm install eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin es
 >> to install prettier
 npm install prettier --save-dev
 
-
 >> to tun CSS in JS
 npm i styled-components
 
@@ -13,3 +12,8 @@ npm i @types/styled-components -D
 
 >> to build routes
 npm i react-router-dom
+
+>> to install icons package
+npm i phosphor-react
+
+
