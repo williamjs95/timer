@@ -16,4 +16,7 @@ npm i react-router-dom
 >> to install icons package
 npm i phosphor-react
 
+>> to build forms
+npm i react-hook-form
+
 
