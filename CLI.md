@@ -19,4 +19,10 @@ npm i phosphor-react
 >> to build forms
 npm i react-hook-form
 
+>> to viladate forms
+npm i zod
+
+>> to integrate zod with react-hook-form
+npm i @hookform/resolvers
+
 
