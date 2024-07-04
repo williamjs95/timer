@@ -25,4 +25,7 @@ npm i zod
 >> to integrate zod with react-hook-form
 npm i @hookform/resolvers
 
+>> to count the seconds passed
+npm i date-fns
+
 
